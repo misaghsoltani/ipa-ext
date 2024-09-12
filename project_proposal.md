@@ -9,7 +9,7 @@
 - This limits the evaluation of InfAdapter’s overall effectiveness and sustainability in real-world deployments
 - Addressing this gap is crucial for meeting industry standard sustainable AI/ML deployment
 
-![feature table](<img width="494" alt="image" src="https://github.com/user-attachments/assets/5e8b2465-7f67-48fc-8f49-063b2543fccd">)
+<img src="images/feat_comparison.png" alt="alt text" width="600" />
 *Feature comparison table [6]*
 
 # Solution
@@ -19,7 +19,7 @@
   - One-shot segmentation (SAM)
   - LLM
 
-![solution figure](<img width="463" alt="image" src="https://github.com/user-attachments/assets/770c25e7-892e-459b-bcae-b984fd324a79">)
+<img src="images/solution.png" alt="alt text" width="600" />
 *Mapping of code modules and IPA*
 
 # Evaluation
